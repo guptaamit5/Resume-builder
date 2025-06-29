@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Resume Builder',
-  description: 'Created with v0',
+  description: 'Created by Amitgupta',
   generator: 'v0.dev',
 }
 
